@@ -1,6 +1,6 @@
 {
-  "name": "preston",
-  "version": "1.2.2",
+  "name": "preston001",
+  "version": "1.2.3",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
